@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Pathak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Web develop, Python,DSA, Java Script**
+- 🌱 I’m currently learning **Web development, Python, DSA, Java Script**
 
 - 📫 How to reach me **mayank.pathak.249@gmail.com**
 
